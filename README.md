@@ -1,5 +1,9 @@
 ### Hi there 👋
+
+![](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+
 I'm Manjul Joshi.
+
 A  B.Tech Final Student of Electronics and Communication Engineering, who is passionate to learn new things, mostly related to tech.
 
 My hobbies are photography and video + photo editing.
