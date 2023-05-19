@@ -11,6 +11,7 @@ A  B.Tech Final Student of Electronics and Communication Engineering, who is pas
 C , C++ and Python Programming Languages.
 
 
+SOCIALS : 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manjuljoshi)                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manjul-joshi-773b641b6) 
 
