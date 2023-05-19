@@ -7,12 +7,9 @@ I 'am Manjul Joshi
 
 A  B.Tech Final Student of Electronics and Communication Engineering, who is passionate to learn new things, mostly related to tech.
 
-Skills: 
+In Experience with :- 
 
- C | C++ | PYTHON
-
-
-🌱 I’m currently learning C , C++ , Python Languages.
+C , C++ and Python Programming Languages.
 
 
 
