@@ -17,7 +17,8 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_manjul_joshi/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ManjulJoshi121)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuljoshi)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjuljoshi&show_icons=true)  
 
