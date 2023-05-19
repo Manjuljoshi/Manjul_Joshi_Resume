@@ -1,34 +1,26 @@
-### Hi there 👋
+### Hi there 👋,
+I 'am Manjul Joshi
 
-![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
-
-I'm Manjul Joshi.
+![Student](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 A  B.Tech Final Student of Electronics and Communication Engineering, who is passionate to learn new things, mostly related to tech.
 
-My hobbies are photography and video + photo editing.
+Skills: 
 
-# 💫 About Me:
-<br>I'm Manjul Joshi.<br>A  B.Tech Final Student of Electronics and Communication Engineering, who is passionate to learn new things, mostly related to tech.<br><br>My hobbies are photography and video + photo editing.
+ C | C++ | PYTHON
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manjul Joshi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ManjulJoshi121) 
+- 🌱 I’m currently learning C , C++ , Python Languages.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manjuljoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Manjuljoshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuljoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manjuljoshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manjuljoshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Manjul Joshi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_manjul_joshi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ManjulJoshi121)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuljoshi)](https://github.com/anuraghazra/github-readme-stats)
 
----
-[![](https://visitcount.itsvg.in/api?id=Manjuljoshi&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjuljoshi&show_icons=true)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub metrics](https://metrics.lecoq.io/Manjuljoshi)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Manjuljoshi)  
+
+![Profile views](https://gpvc.arturio.dev/Manjuljoshi)  
