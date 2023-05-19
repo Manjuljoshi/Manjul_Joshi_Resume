@@ -12,7 +12,9 @@ I 'am Manjul Joshi<br>A  B.Tech Final Student of Electronics and Communication E
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manjuljoshi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manjuljoshi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjuljoshi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://metrics.lecoq.io/Manjuljoshi)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
