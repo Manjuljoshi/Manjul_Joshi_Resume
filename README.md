@@ -15,8 +15,6 @@ I 'am Manjul Joshi<br>A  B.Tech Final Student of Electronics and Communication E
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manjuljoshi&icon=0&color=0)](https://visitcount.itsvg.in)
