@@ -1,11 +1,12 @@
  # 💫 About Me:
 
 Hello ! 🙋🏻♂️
+
 I 'am Manjul Joshi<br>
 
 
-• I'm Manjul Joshi.
-• As a dedicated and motivated   individual, I am eager 
+
+As a dedicated and motivated   individual, I am eager 
   to contribute my skills, creativity, and problem- 
   solving abilities to a dynamic team focused on 
   delivering exceptional design solutions.
