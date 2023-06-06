@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=100&width=435&lines=%F0%9F%8C%A0+About+Me+%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=39F7C2&multiline=true&width=435&height=80&lines=Hello+!+%F0%9F%99%8B%F0%9F%8F%BB%E2%99%82%EF%B8%8F;I+'am+MANJUL+JOSHI+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=39F7C2&multiline=true&width=435&height=80&lines=Hello+There+!+%F0%9F%99%8B%F0%9F%8F%BB%E2%99%82%EF%B8%8F;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FF31ED&width=500&lines=I+'am+Manjul+Joshi+😃)](https://git.io/typing-svg)
 
-As a dedicated and motivated  individual, I am eager 
-  to contribute my skills, creativity, and problem- 
-  solving abilities to a dynamic team focused on 
-  delivering exceptional design solutions.
+## 𝐀𝐬 𝐚 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐞𝐝  𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥, 𝐈 𝐚𝐦 𝐞𝐚𝐠𝐞𝐫  𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬, 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 - 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐭𝐨 𝐚 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐭𝐞𝐚𝐦 𝐟𝐨𝐜𝐮𝐬𝐞𝐝 𝐨𝐧 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐢𝐧𝐠 𝐞𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬
 
 ![Student](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
