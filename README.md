@@ -48,6 +48,6 @@
 
 Contact me here : 
 
-[![Mail](https://img.shields.io/badge/Mail-%23E4405F.svg?logo=mail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Mail](https://img.shields.io/badge/Mail-%23E4405F.svg?logo=mail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
 ---
