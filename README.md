@@ -45,6 +45,3 @@
 
 
 ---
-Contact me via :
-
-📧[![mail](https://img.shields.io/badge/Mail-%23E4405F.svg?logo=Mail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
