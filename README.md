@@ -45,3 +45,6 @@
 
 
 ---
+Contact me via :
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=2FD8F7&width=600&lines=%F0%9F%93%A7+jmanjul09%40gmail.com)](https://git.io/typing-svg)
