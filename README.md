@@ -17,11 +17,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manjul_joshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ManjulJoshi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ManjulJoshi121) 
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=2DCCA5&width=500&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=2DCCA5&width=600&lines=%F0%9F%92%BB+Tech+Stack%3A)](https://git.io/typing-svg)
 
 ## Familier With : 
 
-![C](https://img.shields.io/badge/c-%231DA1F2.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-%23E4405F.svg?style=for-the-badge&logo=MicrosoftOffice#D83B01&logoColor=0xffd700)  ![Canva](https://img.shields.io/badge/canva-%2300599C.svg?style=for-the-badge&logo=canva&logoColor=white)
+![C](https://img.shields.io/badge/c-%231DA1F2.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-%23E4405F.svg?style=for-the-badge&logo=MicrosoftOffice#D83B01&logoColor=0xffd700)  ![Canva](https://img.shields.io/badge/canva-%2300599C.svg?style=for-the-badge&logo=canva&logoColor=white)  
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=78F72B&width=500&lines=++%F0%9F%93%8A+++GitHub+Stats%3A)](https://git.io/typing-svg)
